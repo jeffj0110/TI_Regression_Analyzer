@@ -1,0 +1,76 @@
+﻿Targets,Inputs
+Change from the Open (%),New high
+Change from the Open (%),New high ask
+Change from the Open (%),New high (filtered)
+Change from the Open (%),New high bid (filtered)
+Change from the Open (%),New high ask (filtered)
+Change from the Open (%),"Trailing stop, volatility up"
+Change from the Open (%),Positive VWAP Divergence
+Change from the Open (%),Running up (intermediate)
+Change from the Open (%),Running up
+Change from the Open (%),"Trailing stop, % up"
+Distance from VWAP 1 (%)_Max,Positive VWAP Divergence
+Distance from VWAP 1 (%)_Max,New high
+Distance from VWAP 1 (%)_Max,New high ask
+Distance from VWAP 1 (%)_Max,Running up (intermediate)
+Distance from VWAP 1 (%)_Max,New high (filtered)
+Distance from VWAP 1 (%)_Max,"Trailing stop, volatility up"
+Distance from VWAP 1 (%)_Max,"Trailing stop, % up"
+Distance from VWAP 1 (%)_Max,Running up
+Call Volume Today (Contracts),"Trailing stop, % up"
+Call Volume Today (Contracts),1 minute volume spike
+Call Volume Today (Contracts),Running up
+Call Volume Today (Contracts),"Trailing stop, % down"
+Call Volume Today (Contracts),"Trailing stop, volatility up"
+Call Volume Today (Contracts),Running up (intermediate)
+Call Volume Today (Contracts),"Trailing stop, volatility down"
+Call Volume Today (Contracts),Trading below
+Call Volume Today (Contracts),Positive VWAP Divergence
+Call Volume Today (Contracts),Trading above
+Call Volume Today (Contracts),Running down (intermediate)
+Call Volume Today (Contracts),New high
+Call Volume Today (Contracts),Block trade
+Call Volume Today (Contracts),New high ask
+Call Volume Today (Contracts),Consolidation
+Wiggle ($),Sector breakout (from open)
+Wiggle ($),Consolidation
+Wiggle ($),1 minute volume spike
+Wiggle ($),High relative volume
+Wiggle ($),Block trade
+Wiggle ($),Trading above specialist
+Wiggle ($),"Trailing stop, % down"
+Wiggle ($),"Trailing stop, % up"
+Wiggle ($),"Trailing stop, volatility down"
+Wiggle ($),Trading above
+Wiggle ($),Running down (intermediate)
+Wiggle ($),"Trailing stop, volatility up"
+Wiggle ($),Positive VWAP Divergence
+Volume 5 Minute (%)_Max,Block trade
+Volume 5 Minute (%)_Max,High relative volume
+Volume 5 Minute (%)_Max,1 minute volume spike
+Volume 5 Minute (%)_Max,Running up
+Volume 5 Minute (%)_Max,Fibonacci 38% sell signal
+Volume 5 Minute (%)_Max,Running up (intermediate)
+Volume 5 Minute (%)_Max,Trading above
+Volume 5 Minute (%)_Max,"Trailing stop, volatility down"
+Put/Call Ratio (Ratio)_Max,25% pullback from lows (Close)
+Put/Call Ratio (Ratio)_Max,NR7 (5 minute)
+Put/Call Ratio (Ratio)_Max,30 minute low
+Put/Call Ratio (Ratio)_Max,5 minute low
+Put/Call Ratio (Ratio)_Max,25% pullback from lows
+Put/Call Ratio (Ratio)_Max,New low (filtered)
+Put/Call Ratio (Ratio)_Max,Block trade
+Put/Call Ratio (Ratio)_Max,5 period SMA crossed above 8 period SMA (4 minute)
+Put/Call Ratio (Ratio)_Max,New low ask (filtered)
+Put/Call Ratio (Ratio)_Max,15 minute high
+Put/Call Ratio (Ratio)_Max,Trading above
+Options Volume Today (%)_Max,Consolidation
+Options Volume Today (%)_Max,5 minute opening range breakout
+Options Volume Today (%)_Max,25% pullback from highs (Close)
+Options Volume Today (%)_Max,Fibonacci 38% buy signal
+Options Volume Today (%)_Max,5 minute wide range bar
+Options Volume Today (%)_Max,8 period SMA crossed below 20 period SMA (2 minute)
+Options Volume Today (%)_Max,25% pullback from lows (Close)
+Options Volume Today (%)_Max,2 minute green bar reversal
+Options Volume Today (%)_Max,Fibonacci 62% buy signal
+Options Volume Today (%)_Max,5 period SMA crossed below 8 period SMA (2 minute)
